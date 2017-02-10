@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/vdumontier
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://vdumontier.fr
+  * I am vdumontier (https://keybase.io/vdumontier) on keybase.
+  * I have a public key with fingerprint F323 B97C 603C F31E 1E82  98D8 503C 510F 6CEE E4C0
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120b8f260d81e16fa862ab02514daf6126398066339e620f1ee63832806ad4cdf8f0a",
+            "fingerprint": "f323b97c603cf31e1e8298d8503c510f6ceee4c0",
+            "host": "keybase.io",
+            "key_id": "503c510f6ceee4c0",
+            "kid": "01011c01d2d7b414c26ebe16b256a920c88704fa16a2549efcf3d7fa4287d76c5b660a",
+            "uid": "825b210aadf3b3c941fb01e861d80b19",
+            "username": "vdumontier"
+        },
+        "service": {
+            "hostname": "vdumontier.fr",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1486741317,
+    "expire_in": 157680000,
+    "prev": "eb2c71f816ec7938c86e82c9e3142fbe13d2beb8dd7e728e9fb1863157cb810a",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMNvAnicbZJ9UFRVGMYXViCWIbdQchQCl5xAPuaee++ee++KRQbSTJA1CGOTunM/
+zoUr7F64+1FATIBjWQOUMtoEhkpuzoJoJAmT4wAmqVAL+UmSMSFYiRVEYDSanWXy
+rzr/nDnveZ7fec57zplwvc4Q8GLqS4uLfh3vCRjobXDpNn04mlFuElSp1GQpNxWi
+hQkVScjhtBYqksliIgBJCKxMQkJiAQJQ5llI8gJBmgEt8TIEJKQ4loCQojgESUIG
+CEGKpUhc4yValGRWJnhTkklW7PlIK9YUuxNjZYqkBI4RIUGJMoXBiCU5VmLNeG0G
+hAxFhBAtEthYoDr8DhxO4B0oRVFxDS+sC/H+R/8gNwGASACJlBiBBrRIQiTg/AJp
+hjxHEiLLMgQt8wDypJnmkIxjSIzM0yTLSAwUzQKEC7ldCziWNAskIHhekimBEjka
+yAKBQ0MgsYQAOL/QgTQ7b0NY7ZZcNtXuVJBmqkgy4bpbEZG/tf67/EeTImvYXqyp
+TlVUi/BWgdNZbPE7naXFfumrSLD+C7EKil3CncQGN9Icimo3WQBWik7FTwU0Cxka
+UIBJMqHXihUNWRW/wsxAlsDDfwxyYyQSSJEBMgsgEhmOYkUW4hcQOUQBmpRxoyiJ
+FJDAShKDGJJFnCwAFlIYJAosWGiMA5XYVczGUCefj5kOJd/OO10aMlWc7t28SBdg
+0AUHBfq/mM4Qanzw8aZXGXXd9yfHcuyJxslzWyKaM5+sj61OA3943tt1UOv56Nza
+7LyO5LiG/vildxK2tDVlbxw0+B59t953N7phd9aB8PNhE5G5Ox97o/eu/WhEUfOf
+Y8uvv3my5+G9Mft/Mwx3fxx06veYe3G7V37ROB3y02DlosczLLUz/RfaonbG7wrM
+Pu34bsNwW03tQxtqz3apX+7r09/n10/UercGVx7nB/WrpqKyRqke3ezqv1K3rzMM
+XVkSF1xtM3x9OCxhMrzFx9Ud0fOdsct8Wck7BhrcEa3ypuFuy9DfWbaRb3/s2vGs
+uueA7fkrn9aWXXon6vJnMzfW2KXxjXPps4me7UnUas3TfzVxZE1IQ7oh9MTEbFzr
+TPtVV7Q77abvXmN74GhI+bGW4+O5ySF8RYtvivdW79zn1L1vmc5b0XLy5cajNVXJ
+T30wkmv8qv0Jb9kztxxd5gxj421tmPG0qZHzhls5i2vCqpYcaqrLqU9bubZMv+eF
+1rnD7eXzc85eRQrK/GHuQv1BySL9HH+txuPZ2u2Nzb8Guy5W3SxcF5N4KaHyeiR9
+qGO99zn9+fD65Wds5X2fvGXo3CxPbSuN29u4LSX27Zjm1LKKCJ11qepSg1PrzE83
+8Tl6r/HswP702ym5RSu8QsdUie5I4LFHZgtOmS/fyYweKnllzJYXkuDtC/WkLLuR
+/Qt8vfPzE993X5z/5h8tqMBd
+=Ltqz
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vdumontier
+
+==================================================================
